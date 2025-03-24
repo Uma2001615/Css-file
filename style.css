@@ -1,0 +1,14 @@
+#header {
+    background-image: url('YOUR_IMAGE_URL') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+.description, .blog-description {
+    display: none !important;
+}
+
+body {
+    font-family: 'Your Font', sans-serif !important;
+}
